@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1587370631 source:d:\telyu\matkul\std\new folder\tubes\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"relasi.h"
+
+1587370454 source:d:\telyu\matkul\std\new folder\tubes\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587367866 d:\telyu\matkul\std\new folder\tubes\novel.h
+
+1587371025 source:d:\telyu\matkul\std\new folder\tubes\penulis.cpp
+	<iostream>
+	"penulis.h"
+
+1587369479 d:\telyu\matkul\std\new folder\tubes\penulis.h
+	"relasi.h"
+
+1587371032 d:\telyu\matkul\std\new folder\tubes\relasi.h
+	<iostream>
+	"relasi.h"
+	"novel.h"
+
+1587371029 source:d:\telyu\matkul\std\new folder\tubes\relasi.cpp
+	<iostream>
+	"relasi.h"
+	"novel.h"
+
+1587370454 source:c:\users\rvn\downloads\tubes\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587367866 c:\users\rvn\downloads\tubes\novel.h
+
+1587371025 source:c:\users\rvn\downloads\tubes\penulis.cpp
+	<iostream>
+	"penulis.h"
+
+1587369479 c:\users\rvn\downloads\tubes\penulis.h
+	"relasi.h"
+
+1587371032 c:\users\rvn\downloads\tubes\relasi.h
+	<iostream>
+	"relasi.h"
+	"novel.h"
+
+1587371029 source:c:\users\rvn\downloads\tubes\relasi.cpp
+	<iostream>
+	"relasi.h"
+	"novel.h"
+
+1587371287 source:c:\users\rvn\downloads\tubes\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"relasi.h"
+
